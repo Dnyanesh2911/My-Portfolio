@@ -94,6 +94,10 @@ h1, h2 {
 h2 {
     font-size: 35px;
 }
+
+.col-md-6.col-sm-12, .col-md-12.col-sm-12{
+  padding: 0;
+}
 }
 /**/
 
